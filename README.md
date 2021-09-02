@@ -1,6 +1,5 @@
 # whatsapp ui
-
-## Whats app ui for training and using firebase realtime and statemanagement in flutter
+ Whats app ui for training and using firebase realtime and statemanagement in flutter
 # ScreenShots
 
 ![image](https://user-images.githubusercontent.com/49253127/131882786-4ff1c74f-c5e0-4277-b2eb-0177f6dc8d10.png)
