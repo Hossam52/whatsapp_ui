@@ -1,16 +1,10 @@
-# whatsappclone
+# whatsapp ui
 
-A new Flutter project.
+## Whats app ui for training and using firebase realtime and statemanagement in flutter
+# ScreenShots
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/49253127/131882786-4ff1c74f-c5e0-4277-b2eb-0177f6dc8d10.png)
+![image](https://user-images.githubusercontent.com/49253127/131882813-980636bd-9b31-445e-97a4-c5c186455697.png)
+![image](https://user-images.githubusercontent.com/49253127/131882845-acbf24de-d052-4137-84ad-ff1aac29dc67.png)
+![image](https://user-images.githubusercontent.com/49253127/131882895-4db2310e-7efa-45f1-bb23-de7bb5236584.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
